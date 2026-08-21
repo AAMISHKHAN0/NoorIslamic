@@ -2,7 +2,7 @@
 
 **Effective Date:** August 20, 2026  
 **Last Updated:** August 20, 2026  
-**App Name:** Noor Islamic
+**App Name:** Noor Islamic                                                                                                                                                                                          
 **Package Name:** `com.noor.islamic.app`  
 
 ---
