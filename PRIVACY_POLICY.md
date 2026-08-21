@@ -2,7 +2,7 @@
 
 **Effective Date:** August 20, 2026  
 **Last Updated:** August 20, 2026  
-**App Name:** Noor: Prayer Times & Quran  
+**App Name:** Noor Islamic
 **Package Name:** `com.noor.islamic.app`  
 
 ---
