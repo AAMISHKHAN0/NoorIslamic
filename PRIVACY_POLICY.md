@@ -71,5 +71,5 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 ## 8. Contact Us
 If you have any questions, suggestions, or concerns regarding this Privacy Policy, please contact us at:
-* **Email:** support@noorislamic.app *(or your developer email)*
+* **Email:** digitalerena@gmail.com
 * **Developer:** Noor Islamic App Team
