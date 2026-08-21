@@ -73,3 +73,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 If you have any questions, suggestions, or concerns regarding this Privacy Policy, please contact us at:
 * **Email:** digitalerena@gmail.com
 * **Developer:** DigitalErena
+* **Number:** +92 331 8768648
